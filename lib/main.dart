@@ -70,7 +70,7 @@ class QuizPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('QUIZ 1 TI23K1'),
+        title: const Text('Quiz 1 ListView TI23K1 - Arya - 202511024'),
         centerTitle: true,
       ),
       body: ListView.separated(
